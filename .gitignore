@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local configuration
+.env
+
+# macOS metadata
+.DS_Store
+
+# Coverage / test artifacts
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# Jupyter and notebooks
+*.ipynb_checkpoints
+
+# Logs
+*.log
+

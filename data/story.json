@@ -1,0 +1,17 @@
+{
+  "start": {
+    "text": "You wake up in a dark forest. A path leads north and another leads east.",
+    "choices": {
+      "north": "clearing",
+      "east": "cave"
+    }
+  },
+  "clearing": {
+    "text": "You arrive at a sunlit clearing with flowers.",
+    "choices": {}
+  },
+  "cave": {
+    "text": "You enter a cave and see glittering treasure.",
+    "choices": {}
+  }
+}
